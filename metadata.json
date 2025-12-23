@@ -1,0 +1,5 @@
+{
+  "name": "Leftover",
+  "description": "A strategic puzzle game about efficiency. Place blocks to clear lines, but beware: any part of a block left behind turns into permanent junk.",
+  "requestFramePermissions": []
+}
